@@ -6,4 +6,4 @@
 - reloj en JavaScript
 
   #Editor:
-  mario G.Hernandez Lopez
+  Mario G.Hernandez Lopez
