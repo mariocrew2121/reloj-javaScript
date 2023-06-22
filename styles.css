@@ -32,13 +32,13 @@ body {
 #watch div#hours {
   height: 25%;
   top: 25%;
-  border: 25% solid orangered;
+  border: 25% solid cyan;
 }
 
 #watch div#minutes {
   height: 35%;
   top: 15%;
-  border: 2px solid orangered;
+  border: 2px solid cyan;
 }
 
 #watch div#seconds{
